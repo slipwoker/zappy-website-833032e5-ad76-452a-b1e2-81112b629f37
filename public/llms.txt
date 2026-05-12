@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-833032e5.zappy5.app
+https://example.com
 מחפשים מה לומדים בכל שכבת גיל? אתר א עד יב מציג את תוכנית הלימודים המלאה לכיתות א עד יב במתמטיקה, עברית ועוד. היכנסו עכשיו!
 
 ### שכבות גיל
-https://-833032e5.zappy5.app/grade-levels
+https://example.com/grade-levels
 רוצים לדעת מה לומדים בכיתה ג, ז או י&quot;א? עיינו בתוכנית הלימודים לפי שכבת גיל ומצאו את כל הנושאים הנלמדים בכל שנה. המדריך המלא להורים ותלמידים!
 
 ### מקצועות
-https://-833032e5.zappy5.app/subjects
+https://example.com/subjects
 ממתמטיקה ועברית ועד מדעים והיסטוריה — גלו את כל מקצועות הלימוד המופיעים בתוכנית הלימודים הרשמית. מידע מובנה וברור לתלמידים, הורים ומורים בכל הרמות!
 
 ### צור קשר
-https://-833032e5.zappy5.app/contact
+https://example.com/contact
 צרו איתנו קשר ונשמח לעזור! בין אם אתם הורים, תלמידים או מורים המחפשים מידע על תוכנית הלימודים, צוות א עד יב זמין לכם ומוכן לענות על כל שאלה בנושאי חינוך.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-833032e5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-833032e5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-833032e5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-833032e5.zappy5.app/contact
-- Endpoint: https://-833032e5.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ An educational content website displaying the curriculum topics for each school 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-833032e5.zappy5.app/sitemap.xml
-- Robots: https://-833032e5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-833032e5.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
